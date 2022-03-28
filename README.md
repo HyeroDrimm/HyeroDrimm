@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./Images/banner.jpg)]
+![Braydon's GitHub Banner](./Images/banner.jpg)
 
 
 Here are some ideas to get you started:
