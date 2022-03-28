@@ -1,7 +1,8 @@
 ![Braydon's GitHub Banner](./Images/banner.jpg)
 
 
-Here are some ideas to get you started:
+Helloooo I'm Wojtek "RuneCrow", "HyeroDrimm" Wroński (name transision in place sry 😅)
+Heres something about me! I will upgrade it soon!
 
 - 🔭 I’m currently working as Unity dev at CyberGames! I also program in my off time! My current project is Unity Runtime Terrain Editor and UI Scaler
 
